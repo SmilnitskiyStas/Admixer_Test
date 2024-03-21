@@ -1,0 +1,14 @@
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\bin\Debug\net8.0\Admixer_Test.exe
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\bin\Debug\net8.0\Admixer_Test.deps.json
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\bin\Debug\net8.0\Admixer_Test.runtimeconfig.json
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\bin\Debug\net8.0\Admixer_Test.dll
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\bin\Debug\net8.0\Admixer_Test.pdb
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\obj\Debug\net8.0\Admixer_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\obj\Debug\net8.0\Admixer_Test.AssemblyInfoInputs.cache
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\obj\Debug\net8.0\Admixer_Test.AssemblyInfo.cs
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\obj\Debug\net8.0\Admixer_Test.csproj.CoreCompileInputs.cache
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\obj\Debug\net8.0\Admixer_Test.dll
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\obj\Debug\net8.0\refint\Admixer_Test.dll
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\obj\Debug\net8.0\Admixer_Test.pdb
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\obj\Debug\net8.0\Admixer_Test.genruntimeconfig.cache
+C:\Users\stass\source\repos\Abp\Admixer_Test\Admixer_Test\obj\Debug\net8.0\ref\Admixer_Test.dll
